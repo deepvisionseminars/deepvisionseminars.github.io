@@ -63,7 +63,7 @@ jQuery(document).ready(function ($) {
         prevArrow: "<i class='icon icon-chevron-left nextprevleft'></i>",
         nextArrow: "<i class='icon icon-chevron-right nextprevright'></i>",
         autoplay: true,
-        autoplaySpeed: 2000
+        autoplaySpeed: 4000
     });
     
     
